@@ -6,7 +6,6 @@ import github from './assets/github.png';
 import leetcode from './assets/LeetCode.png';
 import codeforces from './assets/Codeforces.png';
 import codechef from './assets/codechef.jpg';
-import Checkbox from './components/Checkbox'; 
 
 function App() {
   return (
